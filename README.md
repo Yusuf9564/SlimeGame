@@ -30,3 +30,5 @@ Proje, tamamen modüler ve Singleton tasarım deseni (Pattern) kullanılarak yaz
 2. **Space (Boşluk)** tuşuna basarak zıplayın (Seçtiğiniz slime türüne göre havada ek zıplama hakkınız olabilir).
 3. Havada süzülen elmasları toplayarak kombo zincirinizi başlatın. 
 4. Elmasların yere düşmesine izin vermeyin, aksi takdirde kombonuz patlar veya oyunu kaybedersiniz!
+
+(Tüm Backend baştan yazıldı uygulama geliştirme aşamasında bu versiyon son sürüm değildir!)
