@@ -31,4 +31,4 @@ Proje, tamamen modüler ve Singleton tasarım deseni (Pattern) kullanılarak yaz
 3. Havada süzülen elmasları toplayarak kombo zincirinizi başlatın. 
 4. Elmasların yere düşmesine izin vermeyin, aksi takdirde kombonuz patlar veya oyunu kaybedersiniz!
 
-(Tüm Backend baştan yazıldı uygulama geliştirme aşamasında bu versiyon son sürüm değildir!)
+(Tüm sistem yeniden yazıldı uygulama geliştirme aşamasında bu versiyon son sürüm değildir!)
